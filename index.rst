@@ -1,20 +1,17 @@
-.. byron-docs documentation master file, created by
-   sphinx-quickstart on Fri Dec 10 22:51:35 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+================================
+Byron Dex
+================================
 
-Welcome to byron-docs's documentation!
-======================================
+The main goal of this project is to design and implement a
+decentralized exchange app. DEX DApp allows users to
+exchange supported tokens with other users. Users can also
+invest their supported tokens and emit "liquidity orders" to
+provide a liquidity pool, and therefore obtain commission in
+the form of exchange fees for doing so.
 
 .. toctree::
+   :caption: Explore Byron Dex
    :maxdepth: 2
-   :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   byron-dex/features.rst
+   byron-dex/overview.rst
