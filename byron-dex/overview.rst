@@ -61,6 +61,11 @@ We have 3 types of actors:
    orders and be able to combine as many orders as possible
    into one transaction.
 
+
+.. image:: /images/actors.jpeg
+  :width: 800
+  :alt: DEX actors
+
 Liquidity Swamps
 ------------------------------------------
 
