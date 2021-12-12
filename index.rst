@@ -15,3 +15,4 @@ the form of exchange fees for doing so.
 
    byron-dex/features.rst
    byron-dex/overview.rst
+   byron-dex/deployment.rst
